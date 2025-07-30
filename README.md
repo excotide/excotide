@@ -5,7 +5,7 @@
 
 <!-- Typing Effect: Purple -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF4500&center=true&vCenter=true&width=435&lines=I+love+building+cool+projects+🚀;Learning+Web+Dev%2C+React.js+%26+moree+💻;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF4500&center=true&vCenter=true&width=435&lines=I+love+building+cool+projects+🚀;learning+Web+Dev%2C+React+%26+more+;" />
 </p>
 
 ---
