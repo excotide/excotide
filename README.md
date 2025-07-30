@@ -5,7 +5,7 @@
 
 <!-- Typing Effect: Purple -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=435&lines=I+love+building+cool+projects+🚀;Learning+Web+Dev%2C+React.js+%26+moree+💻;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF4500&center=true&vCenter=true&width=435&lines=I+love+building+cool+projects+🚀;Learning+Web+Dev%2C+React.js+%26+moree+💻;" />
 </p>
 
 ---
@@ -25,7 +25,7 @@
         </ul>
       </td>
       <td align="center" width="35%" style="padding: 15px;">
-        <img src="https://github.com/user-attachments/assets/88e4de7a-ab67-438a-a689-f749dbff9352" width="180px" alt="Frieren GIF" style="border-radius: 10px;" />
+        <img alt="Image" src="https://github.com/user-attachments/assets/5df0726c-e8c2-4df9-99ad-8f294478d9df" width="200px" style="border-radius: 10px;" />
       </td>
     </tr>
   </table>
@@ -37,7 +37,7 @@
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,php,react,mysql,tailwind,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,mongodb,php,react,mysql,tailwind,git,github" />
 </p>
 
 ---
