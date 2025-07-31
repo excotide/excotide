@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=200&section=header&text=Hi,%20I'M%20Labiq&fontColor=ffffff&fontSize=40&fontAlignY=35&desc=Technology%20Enthusiast&descAlignY=60&descAlign=50&descFontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:FF4500&height=200&section=header&text=Hi,%20I'M%20Labiq%20👋&fontColor=ffffff&fontSize=40&fontAlignY=35&desc=Technology%20Enthusiast&descAlignY=60&descAlign=50&descFontColor=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=I+love+building+cool+projects;Learning+Web+Dev,+React,+TypeScript,+and+more" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=I+love+building+cool+projects;Learning+React,+TypeScript,+and+more" />
 </p>
 
 ---
