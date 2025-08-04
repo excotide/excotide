@@ -33,9 +33,16 @@
 
 ## Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,tailwind,mongodb,mysql,php,git,github&theme=dark" />
-</p>
+<div align="center">
+  <p>Languages</p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,php&theme=dark" />
+  <p>Library & Frameworks</p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark" />
+  <p>Databases</p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql&theme=dark" />
+  <p>Tools & IDEs</p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" />
+</div>
 
 ---
 
