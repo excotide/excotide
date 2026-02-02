@@ -35,13 +35,13 @@
 
 <div align="center">
   <p>Languages</p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,php&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,php,java,golang&theme=dark" />
   <p>Library & Frameworks</p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,spring,maven,tailwind,express&theme=dark" />
   <p>Databases</p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,supabase&theme=dark" />
   <p>Tools & IDEs</p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,idea,nodejs,postman,git,github&theme=dark" />
 </div>
 
 ---
