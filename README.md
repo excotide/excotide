@@ -15,7 +15,7 @@
     <tr>
       <td width="65%" valign="top">
         <ul>
-          <li><strong>Focused on:</strong> Front-End Development</li>
+          <li><strong>Focused on:</strong>Web Development</li>
           <li><strong>Currently learning:</strong> <code>React</code>, <code>Tailwind CSS</code>, <code>TypeScript</code>, <code>MongoDB</code></li>
           <li><strong>Open to discussion</strong> about programming and web development</li>
           <li><strong>Email:</strong> <a href="mailto:labiqjazz@gmail.com"><code>labiqjazz@gmail.com</code></a></li>
